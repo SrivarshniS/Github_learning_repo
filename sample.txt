@@ -1,2 +1,3 @@
 Srivarshni S
 First git add and git commit 
+New branch created called dev in vscode and in github as "main"
